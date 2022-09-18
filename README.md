@@ -1,4 +1,4 @@
-# House_Price_Pred_Tensorflow
+# Mnist fashion tensorflow
 
 throughout of this notebook we will use jupyter notebook , pandas , numpy, matplotlib , scikit-learn(when its needed) and Tensorflow.
 
